@@ -97,15 +97,15 @@ Las clasificaciones que tienen un mayor interés son las que toman en cosideraci
 Atentiendo a su tamaño se acepta generalmente una división de la empresa que distigue entre microempresa, pequeña, media y gran empresa. 
 
 ```js
-Empresa				|	Balance general Anual	|	Volumen de negocio	|	Trabajadores
------------------------------------------------------------------------------------------
-Microempresa		| 		< 2 millo			|		< 2 mill		|	< 10 trab		
------------------------------------------------------------------------------------------
-Pequeña				|		< 10 millo			|		< 10 mill		|	< 50 trab		
------------------------------------------------------------------------------------------
-Pyme   				|		< 43 mill			|		< 50 mill		|	< 250 tra	
------------------------------------------------------------------------------------------
-Grande				|		> 43 mill			|		> 50 mill		|	>= 250 tra 	
+Empresa		|	Balance general Anual	|	Volumen de negocio	|	Trabajadores
+----------------------------------------------------------------------------------------------------
+Microempresa	| 	< 2 millo		|	< 2 mill		|	< 10 trab		
+----------------------------------------------------------------------------------------------------
+Pequeña		|	< 10 millo		|	< 10 mill		|	< 50 trab		
+----------------------------------------------------------------------------------------------------
+Pyme   		|	< 43 mill		|	< 50 mill		|	< 250 tra	
+----------------------------------------------------------------------------------------------------
+Grande		|	> 43 mill		|	> 50 mill		|	>= 250 tra 	
 ```
 - <mark>Sector productivo</mark>
 
