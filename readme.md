@@ -54,12 +54,12 @@ En una economía de mercado cumple con las siguientes funciones:
 
 - <mark>Asume ciertos riesgos técnico-económico inherentes a la anterior función</mark>, riesgos que se matizan por los principios de responsablidad y control de la empresa
 
-El riesgo se ve atenuado por las siguientes causas:
+	El riesgo se ve atenuado por las siguientes causas:
 
-- El progreso de la técnicas de gestión permitiendo mejorar la planificación, programación, presupuestación y control.
-- La posición de privilegio de la empresa en el mercado.
-- La dispersión del riesgo al aplicar los fondos financieros a emplotaciones diversificadas.
-- La consitucion de empresas multinacionales así como acuerdos y conciertos de actuación con las mismas.
+	- El progreso de la técnicas de gestión permitiendo mejorar la planificación, programación, presupuestación y control.
+	- La posición de privilegio de la empresa en el mercado.
+	- La dispersión del riesgo al aplicar los fondos financieros a emplotaciones diversificadas.
+	- La consitucion de empresas multinacionales así como acuerdos y conciertos de actuación con las mismas.
 
 Las <mark>funciones empresariales genéricas</mark> más importantes son las siguientes:
 
