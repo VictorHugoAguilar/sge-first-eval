@@ -346,7 +346,7 @@ En la actualidad es una cuestión innegable el hecho de que las organizaciones s
 
 Para poder llegar a alcanzarlos las organizaciones necesitas gestionar tanto sus actividades como sus recursos con la finalidad de orientarlos hacia la consecución de estos, lo que a su vez se ha derivado en la necesidad de adoptar herramientas y metodologías que permitan configurar sus sistema de gestión.
 
-Un sistema de gestion por lo tanto ayuda a una organización a establecer metodologías, las responsabilidades, los recursos, las actividades, etc, que les permitan una gestión orientada hacia la obtención de los objetivos establecidos.
+Un sistema de gestión por lo tanto ayuda a una organización a establecer metodologías, las responsabilidades, los recursos, las actividades, etc, que les permitan una gestión orientada hacia la obtención de los objetivos establecidos.
 
 ````js
 OBJETIVOS ------- SISTEMA DE GESTION ------> RESULTADOS
@@ -359,7 +359,8 @@ OBJETIVOS ------- SISTEMA DE GESTION ------> RESULTADOS
 ````
 
 Con esta finalidad, muchas organizaciones utilizan modelos o normas de referencia reconocidos para establecer, documentar y mantener sistemas de gestión que les permita dirigir y controlar sus respectivas organizaciones.
-Pero hoy por hoy las organizaciones que realmente deseen ser competitivas no sólo deben focalizarse en alcanzar los objetivos estratégicos o de negocio definidos por medio de un Sostema de Gestión como algo que lo soporta, sino que deben centrarse en la menera de hacerlo, el cómo.
+
+Pero hoy por hoy las organizaciones que realmente deseen ser competitivas no sólo deben focalizarse en alcanzar los objetivos estratégicos o de negocio definidos por medio de un Sistema de Gestión como algo que lo soporta, sino que deben centrarse en la menera de hacerlo, el cómo.
 
 Las empresas pueden elegir si orientarse hacia una organización tradicional diseñada para la eficiencia, la comunicación vertical u el control, o hacia una organización que aprende, la comunicación horizontal y la coordinación.
 
@@ -367,9 +368,9 @@ Las empresas pueden elegir si orientarse hacia una organización tradicional dis
 
 ## 2.1.1.1 Visión por procesos. Horizontal
 
-La gestión por procesos se basa en un conjunto de procesos interralacionados meidante vículos causa-efecto. Su objetivo es asegurar  que todos los proceso de una organización se desarrollan de forma coordinada, mejorando la efectividad y la satisfacción de todas las partes interesadas.
+La gestión por procesos se basa en un conjunto de procesos interrelacionados mediante vínculos causa-efecto. Su objetivo es asegurar  que todos los proceso de una organización se desarrollan de forma coordinada, mejorando la efectividad y la satisfacción de todas las partes interesadas.
 
-La gestión por procesos cosigue orientar la organización hacia el cliente, y convierte a las personas en el verdadero motor de la organización. Con la gestión por procesos, conseguimos que todas las personas que intervienen en un proceso sean conscientes de la importancia de su trabajo y busquen la excelencia en el mismo al saber que aportan valor al producto o al servicio.
+La gestión por procesos consigue orientar la organización hacia el cliente, y convierte a las personas en el verdadero motor de la organización. Con la gestión por procesos, conseguimos que todas las personas que intervienen en un proceso sean conscientes de la importancia de su trabajo y busquen la excelencia en el mismo al saber que aportan valor al producto o al servicio.
 
 El propósito final de la gestión por procesos es conseguir que la organización se organice alrededor de las actividades que generan valor para el cliente, independientemente de a qué departamento pertenezcan. 
 
@@ -393,7 +394,7 @@ Las diferentes tareas, con el grado de desagregación que se quiera, se encomien
 
 ## 2.2.1.2 Modelo Organizativo matricial
 
-Durante la década de los `60 fue desarrollada originalmente en la industria espacial, la organización matricial, denominada en ocaciones sistema de mandos múltiples. Una organizacion matricial es un enfoque organizativo que asigna especialistas de diferentes departamentos funcionales para que trabajen en uno o más proyectos dirigidos por un director de proyecto.
+Durante la década de los '60 fue desarrollada originalmente en la industria espacial, la organización matricial, denominada en ocaciones sistema de mandos múltiples. Una organizacion matricial es un enfoque organizativo que asigna especialistas de diferentes departamentos funcionales para que trabajen en uno o más proyectos dirigidos por un director de proyecto.
 
 ## 2.2.2 Modelos basados en los procesos
 
@@ -413,29 +414,31 @@ Principios del modelo organizativo por procesos:
 
 ## 3.1 Introducción
 
-Un ERP (Enterprise Resourcing Plannig - Planificacion de recursos de la empresa) abarca en una base de datos centralizada todas las áreas empresariales (departamentos) a las que les da soporte tecnológico, y desde donde suministra informaciójn a un CRM (Customer RElationship Management - Manjeo de Relaciones con el cliente) para ser o bin esta analizada desde el punto de vista estratégico por dirección, o bien para realizar campañas de marketing a clientes, consultas, etc.
+Un ERP (Enterprise Resourcing Plannig - Planificacion de recursos de la empresa) abarca en una base de datos centralizada todas las áreas empresariales (departamentos) a las que les da soporte tecnológico, y desde donde suministra información a un CRM (Customer Relationship Management - Manejo de Relaciones con el cliente) para ser o bien es analizada desde el punto de vista estratégico por dirección, o bien para realizar campañas de marketing a clientes, consultas, etc.
+
 Desde el 3º punto de vista, el tecnológico, es obligado hacer mención al negocio electrónico (e-business), ya que este abarca a toda la empresa aparte de los componentes anteriormente mencionados.
+
 Hablar de un concepto como "Sistema de Gestión Empresarial" no es tarea que sea conceptualmente clara para discenir nombres y competencias de los diversos tipos de estos sistemas. Se va a intentar que el lector entienda esta postura por las siguientes razones:
 
 - La informática está en clara evolución y desde hace 30 años ensta ha sido exponencial. Lo que los teóricos llamaban antes un sistema "A" luego le llamaron sistema "B" añadiéndole el progreso más funcionales, despúes sistemas "CA" con algo más, y finalmente podría quedarse como "B" con avances tecnológicos más significativos.
 
-- Muchos productos informaticos están orientados a ser una solución completa en todas las áreas de la empresa, con el objetivo de vender productos más caros y potenciar su marketing. Es decir, lo que se puede vender como A en realidad es ABCDEF
+- Muchos productos informáticos están orientados a ser una solución completa en todas las áreas de la empresa, con el objetivo de vender productos más caros y potenciar su marketing. Es decir, lo que se puede vender como A en realidad es ABCDEF
 
 - Hoy en día las soluciones informáticas haciendo gala de la modernidad y del buen hacer procuran que sean sistemas "cliente-servidor" y que sea "integradas" (gran cualidad como "reusabilidad") Esta última palabra "integrada" es la que hace precisamente que un producto que se llame "A" en realidad tenga funcionalidades de otras soluciones que la literatura ha nombrado con otro nombre, ya que "integrar" se puede tomar bien por significado "conectar"(de común uso) o bien por "englobar" a otras soluciones con las que opera, se vende todo junto como un paquete completo.
 
 ## 3.2 Conceptos previos
 
-Los conceptos que a continuación vamos a ver para poder entender el concepto de negocio electrónico (e-business) son: cocepto empresarial, de modelo de negocio y de estrategia empresarial
+Los conceptos que a continuación vamos a ver para poder entender el concepto de negocio electrónico (e-business) son: concepto empresarial, de modelo de negocio y de estrategia empresarial
 
 ## 3.2.1 Concepto de proceso empresarial
 
-Un "proceso" empresarial o de negocio se puede definir como el conjunto de tareas o actividades que las empresas utilian recursos para producir bienes y servicios, y para crear (añadir) valor para consumidores externos o internos.
+Un "proceso" empresarial o de negocio se puede definir como el conjunto de tareas o actividades que las empresas utilizan recursos para producir bienes y servicios, y para crear (añadir) valor para consumidores externos o internos.
 Los agentes que repercuten en los procesos de negocio son las personas, la tecnología, y la información que reciben estos, mientras que la medida del output de los procesos (eficiencia y eficacia) es el "valor" que aporta dichos procesos a sus consumidores.
 La norma [ISO-9000] define el proceso como "conjunto de actividades relacionadas o que interactúan, las cuales transforman elementos de entrada en resultados". Por "actividad" entendemos como el conjunto de tareas para la obtención de un resultado.
 
 ## 3.2.2 Concepto de modelo de negocio
 
-El concepto de modelo de negocio es importante para comprender como funcionar una empresa, y las posibilidades que tiene esta de evolucionar. Definimos "modelo de negocio (también conocido como diseño de negocio)" como el mecanismo por el cual un negocio trata de generar ingresos y beneficios. Es un resumen de cómo una compañía plpanifica servir a sus clientes. Implica tanto el concetp de estrategia como el de implementación. Comprende los siguientes elementos:
+El concepto de modelo de negocio es importante para comprender como funciona una empresa, y las posibilidades que tiene esta de evolucionar. Definimos "modelo de negocio (también conocido como diseño de negocio)" como el mecanismo por el cual un negocio trata de generar ingresos y beneficios. Es un resumen de cómo una compañía plpanifica servir a sus clientes. Implica tanto el concepto de estrategia como el de implementación. Comprende los siguientes elementos:
 
 1. Cómo selecionar a sus clientes.
 2. Cómo define y diferencia sus ofertas de producto.
@@ -459,7 +462,7 @@ E-business (negocio electrónico) es un modelo de negocio de alto rendimiento ba
 
 Se puede caer en la tentación de confundir el concepto de e-business (negocio electrónico) con el concepto de e-commerce (comercio electrónico). Los dos conceptos distintos, e-business engloba al e-commerce (es un elemento entre otros).
 
-En el e-business veremos los distintos Sistemas de Gestión en la Empresa. Entendemos por Gestion [ISO-9001:2000] "el conjunto de actividades coordinadas para dirigir y controlar una organización". Los elementos que forman parte del negocio electrónico y que parcelan diferentes gestiones del sistemas son: 
+En el e-business veremos los distintos Sistemas de Gestión en la Empresa. Entendemos por Gestión [ISO-9001:2000] "el conjunto de actividades coordinadas para dirigir y controlar una organización". Los elementos que forman parte del negocio electrónico y que parcelan diferentes gestiones del sistemas son: 
 
 1. El ERP (Enterprise Resourcing Planning - Planificación de los Recursos de la Empresa)
 2. El SCM (Supply Chain Management - Gestión de la Cadena de Suministro)
@@ -490,7 +493,8 @@ La compra-venta electrónica (e-commerce) es la "compra-venta de bienes y servic
 ## 3.3.4 El BI (Bussiness Intelligence - Inteligencia de negocio)
 
 Obtiene información significativa y de calidad de la empresa lo que ayudará a las personas que analizan la información a obtener conclusiones y apartir de estas tomar desiciones.
-La inteligencia de negocio (BI-Business Inteligence) "permite tanto por activa como pasiva obtener información de grandes conjuntos de bases de datos, proveyendo capacidad de direción en timepos de respuestas holgados para cuestiones críticas en la consecución de objetivos". Esto mismo es recoger toda la información de la empresa y tratarla de forma adecuada para que los directivos tengan una información veraz, no redundante, y de acceso rápido.
+
+La inteligencia de negocio (BI-Business Inteligence) "permite tanto por activa como pasiva obtener información de grandes conjuntos de bases de datos, proveyendo capacidad de direción en tiempos de respuestas holgados para cuestiones críticas en la consecución de objetivos". Esto mismo es recoger toda la información de la empresa y tratarla de forma adecuada para que los directivos tengan una información veraz, no redundante, y de acceso rápido.
 
 - Alamacén de datos (DW-Data warehouse)
 - Sistemas de ayuda a la desición(DSS-Decision Support System)
@@ -499,23 +503,23 @@ La inteligencia de negocio (BI-Business Inteligence) "permite tanto por activa c
 
 ## 3.3.4.1 Almacen de datos (DW-Data Warehouse)
 
-Podemos entender el concepto de Data Warehouse como una colección de datos temática (orientado a un determinado ámbito - empresa, organización, etc), integrada, no volátil y variable en el tiempo para soportar la gestión de las necesidades de un DSS (Decision Support System - Sistema de ayuda a la desición)
+Podemos entender el concepto de Data Warehouse como una colección de datos temática (orientado a un determinado ámbito - empresa, organización, etc), integrada, no volátil y variable en el tiempo para soportar la gestión de las necesidades de un DSS (Decision Support System - Sistema de ayuda a la decisión)
 
 - Temática: los datos en la base de datos están organizados de manera que todos los elementos de datos relativos al mismo evento y objetivo del mundo real quedan unidos entre sí.
 - No volátil: los datos son de solo lectura y sirven de consulta
-- Variable en el tiempo: la dimensión tiempo es fundamental en ele análisis de la información puesto que permite deducir al evolución de estos en el mundo real
+- Variable en el tiempo: la dimensión tiempo es fundamental en el análisis de la información puesto que permite deducir al evolución de estos en el mundo real
 - Integrada: Toda la información de la empresa está relacionada e integrada en una base de datos.
 
 Para obtener la información en los Data Warehouse se necesita una elaboración de que datos son importantes de diversas fuentes (se les prodría llamr datos nodriza), transformarlos en medidas necesarias para la toma de decisiones directivas (se les podría llamar datos de consulta de directivos), y finalmente una carga en los Data Warehouse para su análisis por parte de directivos mediante herramientas OLAP (este concepto se verá más adelante), realiza informes o utiliza estadísticas y algoritmos de inteligencia artificail para encontrar relaciones insospechadas: el data mining.
 
 ````js
-Operation System -----|
-											| 				---------------------
-ERP ------------------| E				|		Summary Data		|----> Olap Analysis
-											| T ----> |		Metadato 				|----> Reporting
-CRM ------------------| L				|		Raw Data				|----> Data Mining
-											|					---------------------
-Flat Files -----------|							Data Warehouse
+Operation System -----	|---|
+			|   |		------------------------
+ERP ------------------	| E |		|	Summary Data	|----> Olap Analysis
+			| T |	----> 	|	Metadato	|----> Reporting
+CRM ------------------	| L |		|	Raw Data	|----> Data Mining
+			|   |		------------------------
+Flat Files -----------	|---|			Data Warehouse
 ````
 
 Los datos de los datewarehouse pueden venir de diferentes fuentes.
