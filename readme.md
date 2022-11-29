@@ -50,16 +50,16 @@ Para que la empresa pueda cumplir sus objetivos y desarrollar el conjunto de sus
 
 En una economía de mercado cumple con las siguientes funciones:
 
-- <mark>Organizar y dirige básicamenten el proceso de produción</mark> si bien a veces se le marcan o regulan ciertos aspectos y líneas de actuación de su activodad por los organismos estatales de planificación y dirección económica.
+- <mark>Organizar y dirige básicamenten el proceso de produción</mark> si bien a veces se le marcan o regulan ciertos aspectos y líneas de actuación de su actividad por los organismos estatales de planificación y dirección económica.
 
 - <mark>Asume ciertos riesgos técnico-económico inherentes a la anterior función</mark>, riesgos que se matizan por los principios de responsablidad y control de la empresa
 
 	El riesgo se ve atenuado por las siguientes causas:
-
+	
 	- El progreso de la técnicas de gestión permitiendo mejorar la planificación, programación, presupuestación y control.
 	- La posición de privilegio de la empresa en el mercado.
 	- La dispersión del riesgo al aplicar los fondos financieros a emplotaciones diversificadas.
-	- La consitucion de empresas multinacionales así como acuerdos y conciertos de actuación con las mismas.
+	- La constitución de empresas multinacionales así como acuerdos y conciertos de actuación con las mismas.
 
 Las <mark>funciones empresariales genéricas</mark> más importantes son las siguientes:
 
@@ -73,7 +73,7 @@ Cada empresa las defina y las lleva a cabo de una forma determinada. Así en una
 
 ## 1.5 Clases de empresa
 
-Las diversas clasificaciones de las empresas atienden a variados criterios: productiovs, funcionales, organizativos
+Las diversas clasificaciones de las empresas atienden a variados criterios: productivos, funcionales, organizativos
 
 ## 1.5.1 Según la propiedad del capital
 
@@ -86,7 +86,7 @@ a. Nivel estado
 b. Nivel autonómico
 c. Nivel corporaciones locales(ayuntamientos)
 
--	<mark>Mixtas</mark>: Si la titularidad es compartida entre organismos públicos y particulares
+- <mark>Mixtas</mark>: Si la titularidad es compartida entre organismos públicos y particulares
 
 ## 1.5.2 Criterios económicos de clasificacion y otros criterios socioeconómicos
 
@@ -128,7 +128,7 @@ Respecto de las sociedades, sucesivas subclasificaciones permiten distiguir entr
 -   Mercantiles puras(colectivas, conmanditas, anónimas y limitadas) u especiales (cooperativas, mutialidades, sociedades de garantía reciproca)
 -   Participadas total o mayoritariamente por el Estado y los entes organismos en que se organizan (empresas públicas o semipúblicas) y aquellas cuyo dominio correspondne al capital privado (empresas privadas)
 
-c. Los grupos de sociedades. Se consideran que existen grupo a partir de la constatación de relaciones de domino, evidentes, víaporsentajes de participación mayoritariamente en el capital de unas sociedades por otras, si alguna sociedad domina de "facto" el órgano de administacion de otra, aun no poseyendo la mayoría del capital:
+c. Los grupos de sociedades. Se consideran que existen grupo a partir de la constatación de relaciones de domino, evidentes, vía porcentajes de participación mayoritariamente en el capital de unas sociedades por otras, si alguna sociedad domina de "facto" el órgano de administacion de otra, aun no poseyendo la mayoría del capital:
 - Empresas del grupo si reúnen los requisitos previstos para formar parte del grupo por el Código de Comercio
 - Empresas asociadas, cuadno, sin reunirlos el grado de influencia de unas sobre las otras es notable
 
@@ -151,11 +151,11 @@ DEBILIDADES:
 - La búsqueda de objetivos funcionales puede ocasional que los gerentes pierdan la visión de lo que es mejor para la organización en general.
 - Los especialistas funcionales se aíslan y tienen poca compresión de lo que hacen otras unidades.
 
-Las empresas cuyo fin es la producción de bienes y servicios utilizan un conjunto de recursos: materiales, financieros, tecnolçogicos, humanos ya través de un proceso o método de trabajo los combina y transforma obteniendo así su producción.
+Las empresas cuyo fin es la producción de bienes y servicios utilizan un conjunto de recursos: materiales, financieros, tecnológicos, humanos y a través de un proceso o método de trabajo los combinan y transforman obteniendo así su producción.
 
 En su funcionamiento estas empresas aplican la división del trabajo para lograr eficiencia y como resultado suele suceder que empleando un criterio funcional de organización, surgen unas funciones denominadas sustantivas y otros de apoyo.
 
-Son sustantivas la PRODUCCIÓN y la COMERCIALIZACIÓN porque en conjunto hacen a la esencia de la actividad empresarial, que es identificar necesidades y satifacerlas a traves del mecanismo social del intercambio (COMERCIALIZACIÓN) con productos o servicios que obtiene de la función PRODUCCIÓN.
+Son sustantivas la PRODUCCIÓN y la COMERCIALIZACIÓN porque en conjunto hacen a la esencia de la actividad empresarial, que es identificar necesidades y satifacerlas a través del mecanismo social del intercambio (COMERCIALIZACIÓN) con productos o servicios que obtiene de la función PRODUCCIÓN.
 
 En tanto de apoyo o facilitadoras se consideran aquellas funciones que colaboran al mejor desarrollo de las funciones sustantivas, siendo ellas por lo general: FINANZAS, CONTABLE, PERSONAL.
 
@@ -193,10 +193,10 @@ La empresa pude elegir si orientarse hacia una organización tradicional diseña
 ## 1.3.1 Orientación en el diseño global de la estructura.
 
 - Organicación vertical
-Diseñanda para la eficiencia.
+Diseñada para la eficiencia.
 Énfasis en comunicación vertical y control.
 a. tareas especializadas 
-b. jerarquia de autoridad
+b. jerarquía de autoridad
 c. reglas y regulaciones
 d. sistema de subordinación formales
 e. pocos equipos, comités temporales o integradores
@@ -283,7 +283,7 @@ Este documento recoge de forma detallada las grandes decisiones que marcarán tu
 ## 1.4.2 Caracteristicas
 
 Ha de contar con las siguientes carácteristicas
--	Cuantitativo: traducir en cifras el objetivo.
+- Cuantitativo: traducir en cifras el objetivo.
 - Personalizado: definir concretamente las tareas a realizar.
 - Descriptivo: definir concretamente las tareas a realizar.
 - Temporal: indicar la fecha y plazo para ejecutar las tareas.
@@ -299,20 +299,18 @@ Revisarás tu plan estratégico de forma mensual, analizando los resultado obten
 
 ## 1.4.4 Análisis Interno
 
-Análisis de la situación actual:
-- origen de tu empresa
-- estructura u organigrama
-- producto o servicio que ofreces
-- cliente ideal o buyer personas al que te diriges
-- situación web
-- presencia en redes sociales
+1. Análisis de la situación actual (esto te sirve para valorar cómo estás, descubriendo aquello que haces bien, y lo que no haces tan bien):
+	- origen de tu empresa
+	- estructura u organigrama
+	- producto o servicio que ofreces
+	- cliente ideal o buyer personas al que te diriges
+	- situación web
+	- presencia en redes sociales
 
-Esto te sirve para valorar cómo estás, descubriendo aquello que haces bien, y lo que no haces tam bien.
-
-Análisis financiero
-- balance de situación
-- cuenta de pérdidas y ganancias
-- ratios económicos-financieros
+2. Análisis financiero
+	- balance de situación
+	- cuenta de pérdidas y ganancias
+	- ratios económicos-financieros
 
 ## 1.4.5 Análisis externos
 
@@ -329,8 +327,8 @@ Consiste en ver cómo se relaciona tu empresa con su entorno
 
 ## 1.4.6 Diagnóstico: DAFO y CAME
 
-- DAFO: Documento que recoge el análisis externo e interno
-- CAME: Documento posterior al DAFO que recoge las estrategias a poner en práctica
+- DAFO(Debilidades, Amenazas, Fortalezas, Oportunidades): Documento que recoge el análisis externo e interno.
+- CAME(Corrigir, Afrontar, Mantener, Explorar): Documento posterior al DAFO que recoge las estrategias a poner en práctica.
 
 ## 1.4.7 Plan de acción
 
@@ -345,17 +343,19 @@ La elaboracón de tu plan financiero, consiste en estimar cuáles serán las nec
 ## 2.1 La gestión por procesos
 
 En la actualidad es una cuestión innegable el hecho de que las organizaciones se encuentran inmersas en entornos y mercados muy competitivos y globalizados entornos en los que toda organización que desee tener éxito o al menos subsistir tiene la necesidad de alcanzar buenos resultado empresariales.
-Para poder llegar a alcanzarlos las organizaciones necesitas gestionar tanto sus actividades como sus recursos con la finalidad de orientarlos hacia la consecución de estos, lo que a su vez se ha derivado en la necesidad de adoptar herramientas y metodologías que permitan configurar sus sitema de gestión.
-Un sistema de gestion por lo tanto ayuda a una organización a establecer metodologías, las responsabilidades, los recursos, las actividades, etc., que les permitan una gestión orientada hacia la obtención de los objetivos establecidos.
+
+Para poder llegar a alcanzarlos las organizaciones necesitas gestionar tanto sus actividades como sus recursos con la finalidad de orientarlos hacia la consecución de estos, lo que a su vez se ha derivado en la necesidad de adoptar herramientas y metodologías que permitan configurar sus sistema de gestión.
+
+Un sistema de gestion por lo tanto ayuda a una organización a establecer metodologías, las responsabilidades, los recursos, las actividades, etc, que les permitan una gestión orientada hacia la obtención de los objetivos establecidos.
 
 ````js
 OBJETIVOS ------- SISTEMA DE GESTION ------> RESULTADOS
-													|
-													V
-								Responsabilidades(quién)
-								Recursos (con qué)
-								Metódologías (cómo)
-								Planificación (cuándo)
+						|
+						V
+					Responsabilidades(quién)
+					Recursos (con qué)
+					Metódologías (cómo)
+					Planificación (cuándo)
 ````
 
 Con esta finalidad, muchas organizaciones utilizan modelos o normas de referencia reconocidos para establecer, documentar y mantener sistemas de gestión que les permita dirigir y controlar sus respectivas organizaciones.
