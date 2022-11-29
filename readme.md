@@ -510,7 +510,7 @@ Podemos entender el concepto de Data Warehouse como una colección de datos tem�
 - Variable en el tiempo: la dimensión tiempo es fundamental en el análisis de la información puesto que permite deducir al evolución de estos en el mundo real
 - Integrada: Toda la información de la empresa está relacionada e integrada en una base de datos.
 
-Para obtener la información en los Data Warehouse se necesita una elaboración de que datos son importantes de diversas fuentes (se les prodría llamr datos nodriza), transformarlos en medidas necesarias para la toma de decisiones directivas (se les podría llamar datos de consulta de directivos), y finalmente una carga en los Data Warehouse para su análisis por parte de directivos mediante herramientas OLAP (este concepto se verá más adelante), realiza informes o utiliza estadísticas y algoritmos de inteligencia artificail para encontrar relaciones insospechadas: el data mining.
+Para obtener la información en los Data Warehouse se necesita una elaboración de que datos son importantes de diversas fuentes (se les prodría llamar datos nodriza), transformarlos en medidas necesarias para la toma de decisiones directivas (se les podría llamar datos de consulta de directivos), y finalmente una carga en los Data Warehouse para su análisis por parte de directivos mediante herramientas OLAP (este concepto se verá más adelante), realiza informes o utiliza estadísticas y algoritmos de inteligencia artificail para encontrar relaciones insospechadas: el data mining.
 
 ````js
 Operation System -----	|---|
@@ -524,7 +524,10 @@ Flat Files -----------	|---|			Data Warehouse
 
 Los datos de los datewarehouse pueden venir de diferentes fuentes.
 
-Los Data Marts están formados por los datos granulares de un Data Warehouse. Pertenecen al dominio específico de un departamente de una compañoa (financiera, ventas, marketing) Por eso mismo el diseño de cada Data Marts es único. Están compuestos por diferentes piezas de un data warehouse. Data Mart es un Data Warehouse de un departamento especifico. Hay dos tipos de data marts: independientes y dependientes. Un Data marts independiente es alimentado de datos de los sistemas de información de la empresa, y data mart dependiente es alimentado exclusivamente de los datos de un Data Warehouse. Por mucho, los data marts dependientes son arquitectónicamente más estables que los data marts independientes.
+Los Data Marts están formados por los datos granulares de un Data Warehouse. Pertenecen al dominio específico de un departamente de una compañia (financiera, ventas, marketing) Por eso mismo el diseño de cada Data Marts es único. Están compuestos por diferentes piezas de un data warehouse. Data Mart es un Data Warehouse de un departamento especifico. 
+
+Hay dos tipos de data marts: independientes y dependientes. Un Data marts independiente es alimentado de datos de los sistemas de información de la empresa, y data mart dependiente es alimentado exclusivamente de los datos de un Data Warehouse. Por mucho, los data marts dependientes son arquitectónicamente más estables que los data marts independientes.
+
 El diseño de un data warehouse viene dado por bien un estudio de los factores de éxito de los directivos para que sus áreas obtengan éxito. Dichos factores de éxito vienen dados por medidas numéricas y pueden ser el resultado de una "operación" sobre diversos datos de diversas fuentes. Por ejemplo, totales de ventas (sumas), acumulados de ventas por fecha, etc. Despúes de deducir como obtener esos datos y como plasmarlos en una base de datos, se implementa el Data Warehouse.
 
 ## 3.3.4.2 Sistemas de Ayudas de desición (DSS -Decision Support System)
@@ -539,16 +542,26 @@ Por último diremos que un DSS necesita la implantación de un Sistema de Base d
 ## 3.3.4.3 Minería de Datos (DM - Data mining)
 
 Data mining aparte de la aplicación en otras áreas sirve para análisis financiero, análisis de marketing, análisis de ventas, análisis de clientes.
+
 En el data mining se trata de encontrar patrones para la obtención de una ventaja competitiva, patrones tanto descriptivos (que pasa en el presente) como predictivos (que pasará en el futuro), para lo cual se requiere lo siguiente: los factores del entorno deben de estar bien definidos. Los factores del entorno permiten la recogida de datos de diversas fuentes de información.
+
 El data mining analiza las series de tiempo, y es un proceso no intuitivo, Se trata de analizar por ejemplo una parte de la cesta del mercado o "market basket" y por otra por ejemplo raliza la segmentación del mercado. Para ello busca relaciones entre las características de los clientes. Una fuente del data mining es el e-commerce.
+
 Para llevar a cabo el proceso del data mining se necesita una preparación de datos, que mediante una limpieza o clearing se eliminen los datos anómalos. Es importante para esa limpieza la calidad de los datos obtenidos bien de fuentes externas (calidad dudosa) y de fuentes internas (calidad mas afín)
+
 Los tipos básicos de procesamientos de la informaciónen el data mining son:
+
 1. Análiss de regresión: permiten predicir la dependencia o independencia de los valores. Se suele aplicar a datos que vienene de la investigación del marketing. Los criterios que se suelen aplicar puden ser conocidos en la empresa, o bien por la comprobación de una hipótesis para conocer la casualidad. En un análisis de regresión aparece una variable simple dependiente y un conjunto de múlitples variables independientes.
+
 2. Análisis clúster: se trata de agrupar distintas ocurrencias de pares de datos y calcular las distancias entre ellos. Se utilizan en estudios de la cesta de compra, y en análisis de ventas especificando los grupos de compradores por sus carácteristicas.
-3. Redes neuronales: Las técnicas de menería convencional se basan en algoritmos y datos que son ambos variable dependientes es medida por un simple cálculo, el cual es repetido incrementalmente. Las redes neuronales tratn de la comunciación entre distintos nodos, unos receptores, otros de nodos intermedios que contienen una gran variedad de algoritmos, y a los cuales les pasan los datos los nodos receptores. Finalmente unos nodos de salida permiten una visualización de la infromación obtenida en varios formatos. La habilidad para elegir una varidad de caminos lógicos con diferentes criterios en la toma de decisiones es lo que lo hace atractivo para su uso en el data mining. Un uso muy común de las redes neuronales es la detección de fraudes como sistemas predictivos. Existen dos técnicas en el uso de las redes neuronales:
+
+3. Redes neuronales: Las técnicas de minería convencional se basan en algoritmos y datos que son ambos variable dependientes es medida por un simple cálculo, el cual es repetido incrementalmente. Las redes neuronales tratan de la comunciación entre distintos nodos, unos receptores, otros de nodos intermedios que contienen una gran variedad de algoritmos, y a los cuales les pasan los datos los nodos receptores. Finalmente unos nodos de salida permiten una visualización de la infromación obtenida en varios formatos. La habilidad para elegir una varidad de caminos lógicos con diferentes criterios en la toma de decisiones es lo que lo hace atractivo para su uso en el data mining. Un uso muy común de las redes neuronales es la detección de fraudes como sistemas predictivos. 
+
+Existen dos técnicas en el uso de las redes neuronales:
    - Entrenar a la red neuronal o también llamada aprendizaje supervisado. Esta técnica se base en aplicaciones las cuales se alimentan de datos basados en experiencias previas. También se le llama red neuronal de propagación hacia atrás. Los valores obtenidos suelen ser bien valores predecidos, bien valores desados a alcanzar, o bien valores de error(por ejemplo la resta de dos anteriores)
-   - Aprendizaje no supervisado. En esta técnica los patrones son detectados como datos los cuales son pasados a través del software de la red neuronal. Los ptatrones son detectados como un resultado más del proceso. Esta técnica también se usa para la deteccion de fraude, ademas del análisis de segmentación del mercado apra alcanzar las metas del marketing. El análisis es tanto intensivo como caro y puede ejecutarse en entornos de multiprocesamientos simétrico en grandes máquinas Unix, mientras que una pequeña cantidad de datos puede ser usada en entornos de windows.
-Otra aplicacion del uso de redes neuronales son el análisis de riesgo de créditos y scoring, predicción de stock y commodity price, gestión de canales de suministros SCM y ventas futuras (prevision, estimación). Como muchas otras técnicas de las redes neuronales no han sido diseñadas para manejar tiempo.
+   - Aprendizaje no supervisado. En esta técnica los patrones son detectados como datos los cuales son pasados a través del software de la red neuronal. Los patrones son detectados como un resultado más del proceso. Esta técnica también se usa para la detección de fraude, además del análisis de segmentación del mercado para alcanzar las metas del marketing. El análisis es tanto intensivo como caro y puede ejecutarse en entornos de multiprocesamientos simétrico en grandes máquinas Unix, mientras que una pequeña cantidad de datos puede ser usada en entornos de windows.
+
+Otra aplicacion del uso de redes neuronales son el análisis de riesgo de créditos y scoring, predicción de stock y commodity price, gestión de canales de suministros SCM y ventas futuras (previsión, estimación). Como muchas otras técnicas de las redes neuronales no han sido diseñadas para manejar tiempo.
 
 4. Análisis de las series de tiempo. Los análisis tradicionales manjean la complejidad del tiempo por colapsar este en un punto más que en una continuidad. Los análisis tradicionales analizan las ventas por mes, las ventas por año y las ventas por trimestre. En el análisis de las series de tiempo el data mining utiliza n dimensiones (por ejemplo número de cliente frente a cuatrimestre, para saber sus compras). El análisis de las series de tiempo se usa para la industria de serivios finaniceros con el objetivo de determinar los productos que compran los clientes en los diferentes momentos de su vida, buscando sucesos cíclicos o repetitivos del cliente.
 
@@ -556,12 +569,12 @@ Otra aplicacion del uso de redes neuronales son el análisis de riesgo de crédi
 
 - [CRM]: Gestión de las relaciones con el cliente (CRM-Customer Relationship Management) "...es al mismo tiempo una estrategia y una herramienta"; "es un enfoque glabal que permite el establecimiento, mantenimiento y ampliación de relaciones con clientes"
 - [CRM]: Filosofía empresarial que combina estrategia y tecnología, incrementando el conocimiento sobre los clientes y estableciendo una comunicación bidirecional entre ellos y las empresas. CRM mejora la eficiencia y eficacia de los procesos empresariales, permitiendo así incrementar el valor tanto para los consumidores finales como las compañias.
-- [CRM]: es una estrategia y proceso desarrollado por la organizacion basado en la indetifiacion y retención de clientes valiosos a través de la contrucción de relaciones a largo plazo.
+- [CRM]: es una estrategia y proceso desarrollado por la organización basado en la indetifiación y retención de clientes valiosos a través de la contrucción de relaciones a largo plazo.
 
-El enfoque global de conbinar estrategia y tecnología (herramienta)en función de la relación con el cliente es algo más que un enfoque limitado a lso departamentos de ventas, servicios, y marketing. Es un enfoque que se aplica a todas las áreas de la empresa, ya que la información que podemos obtener de un cliente puede ser de ayuda para cualquier departamento empresarial.
+El enfoque global de combinar estrategia y tecnología (herramienta) en función de la relación con el cliente es algo más que un enfoque limitado a los departamentos de ventas, servicios, y marketing. Es un enfoque que se aplica a todas las áreas de la empresa, ya que la información que podemos obtener de un cliente puede ser de ayuda para cualquier departamento empresarial.
 El componente tecnológico del CRM está formado por todas las tecnologías de la informática y computación de las que se sirve la empresa para poder conseguir el éxito de dicha estratégia. Gracias al componente tecnológico del CRM, se pueden establecer múltiples canales de contacto y servicio al cliente, con lo que se obtiene información que debidamente analizada es útil en el uso de toda la empresa.
 
-Como hemos visto existen diversos elementos en un CRM: "la tecnologia, los canales de comunicación con los clientes (que pueden ser internos o externos de la empresa)", el conocimiento del cliente y su uso", y la correcta utilización dicho conocimiento tanto en las relaciones con los clientes, como en la mejora de los procesos internos de la empresa.
+Como hemos visto existen diversos elementos en un CRM: "la tecnología, los canales de comunicación con los clientes (que pueden ser internos o externos de la empresa)", el conocimiento del cliente y su uso", y la correcta utilización dicho conocimiento tanto en las relaciones con los clientes, como en la mejora de los procesos internos de la empresa.
 
 Hoy por hoy es crucial que las empresas busquen la personalización del cliente, para conocerlo mejor, y en consecuencia para tener mejores resultados en la relación con este. Por esto mismo el CRM ayuda a obtener mayor número de relaciones con los clientes a través de la obtención del conocimiento del cliente, y en consecuencia, a mantener una interación más estrecha que aporte más valor.
 
@@ -571,8 +584,8 @@ Realizar una mejora de procesos (redefinirlos) es lo que se conoce como Rediseñ
 En la implantación de un CRM:
 
 1. Se debe crear la estrategia CRM
-2. establecer su arquitectura tecnológica (TIC)
-3. se debe de redefinir los proceso de un CRM, el componente estratégico y el componente tecnológico 
+2. Establecer su arquitectura tecnológica (TIC)
+3. Se debe de redefinir los proceso de un CRM, el componente estratégico y el componente tecnológico 
 
 ## 3.3.5.1 El componente estratégico del CRM
 
@@ -592,7 +605,7 @@ Siendo CRM una filosofía que combina estrategia y tecnologia tal como vimos en 
 
 ## 3.3.5.2.1 CRM analítico
 
-Es la inteligencia de negocio (BI - Business Intelligence) Obtiene información significativa y de calidad de la empresa y su entorno lo que ayudará a las personas que analizan la información a obtener conclusiones y apartir de estas tomar decisiones.
+Es la inteligencia de negocio (BI - Business Intelligence). Obtiene información significativa y de calidad de la empresa y su entorno lo que ayudará a las personas que analizan la información a obtener conclusiones y apartir de estas tomar decisiones.
 El CRM analítico se sirve de estas tecnologias del Business Intelligence (BI). Este apartado del negocio electrónico ya lo hemos visto:
 - Alamacen de datos (DW-Data warehouse)
 - Sistemas de ayuda a las decisiones (DSS - Decision Support System)
@@ -602,15 +615,17 @@ El CRM analítico se sirve de estas tecnologias del Business Intelligence (BI). 
 ## 3.3.5.2.2 CRM colaborativo
 
 El CRM Colaborativo cubre aspectos de una compañia que trata con clientes que interactúan con varios departamentos de una compañia, tales como ventas, soporte técnico y marketing.
+
 Los miembros de diferentes departamentos pueden compartir información recogida cuando interactúan con los clientes. Por ejemplo: información realimentada por los agentes que apoyan al cliente pueden proveer a otros miembors de la empresa sobre servicios y características requeridas por los clientes de la empresa.
-El objetivo final del CRM colaborativo es usar esa información recogida por todos los departamentos para mejora la calidad de los serivicos de la compañia. Es el encargado de facilitar la interacción del cliente con la organización e incorporar los nuevos medios (internet y telefonia movil), como canales adicionales debiendo proveer en conjunto el conocimiento de los patrones de comportamiento del cliente que constituye la base para rediseñar la estratégia CRM.
+
+El objetivo final del CRM colaborativo es usar esa información recogida por todos los departamentos para mejora la calidad de los servicios de la compañia. Es el encargado de facilitar la interacción del cliente con la organización e incorporar los nuevos medios (internet y telefonía móvil), como canales adicionales debiendo proveer en conjunto el conocimiento de los patrones de comportamiento del cliente que constituye la base para rediseñar la estratégia CRM.
 
 ## 3.3.5.2.3 CRM operacional
 
 Abarca aplicaciones pseudo-transaccionales que generan datos y que facilitan la puesta en práctica o ejecución de lo definido y planificado en el nivel análitico. El CRM operacional incluye entre otros componentes:
 
 1. Automatización de ventas: priorización y gestión de oportunidades y avisos o pistas, gestión de pedidos, configuración de productos, capacidad de agregación y desagregación.
-2. Automatización de servicios: centro de llamadas automatizado, autoservicio basado en la web.
-3. Automatización de marketin: basada en la Web(span, email, personalización de páginas web, autorespondedores), se busca el cumplimiento y aplicacion de las políticas correctas.
+3. Automatización de servicios: centro de llamadas automatizado, autoservicio basado en la web.
+4. Automatización de marketing: basada en la Web(span, email, personalización de páginas web, autorespondedores), se busca el cumplimiento y aplicacion de las políticas correctas.
 
 Los distintos componentes del CRM operacional deben integrarse en una plataforma de servicios común, facilitando la granularidad. Se trata de integrar el front-office o sistemas dan soporte al nivel de contacto con clientes, con el back-office o sistema que soportan los procesos derivados del nivel de contacto, sazonado con el mayor número de automatismos posibles (de lo que suele ser muy sensible la productividad del esfuerzo humano) en servicios, campañas de marketing y ventas.
